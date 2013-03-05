@@ -1,0 +1,5 @@
+C:\Users\solvik\Desktop\C#\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\solvik\Desktop\C#\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\solvik\Desktop\C#\Calc\Calc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\solvik\Desktop\C#\Calc\Calc\obj\x86\Debug\Calc.exe
+C:\Users\solvik\Desktop\C#\Calc\Calc\obj\x86\Debug\Calc.pdb

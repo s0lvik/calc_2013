@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc.csproj", "{03DAF51D-80EA-4E3D-8757-66EAEA4F1575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03DAF51D-80EA-4E3D-8757-66EAEA4F1575}.Debug|x86.ActiveCfg = Debug|x86
+		{03DAF51D-80EA-4E3D-8757-66EAEA4F1575}.Debug|x86.Build.0 = Debug|x86
+		{03DAF51D-80EA-4E3D-8757-66EAEA4F1575}.Release|x86.ActiveCfg = Release|x86
+		{03DAF51D-80EA-4E3D-8757-66EAEA4F1575}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
